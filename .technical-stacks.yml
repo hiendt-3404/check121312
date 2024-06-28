@@ -1,0 +1,8 @@
+techstack:
+  application:
+    - laravelyen:9.52.15
+    - phpyen2:8.0.2
+    - html1605:1.0.0
+    - css1605:1.0.0
+    - php:1.0.0
+    - sass:1.0.0
